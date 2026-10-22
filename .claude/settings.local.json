@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "slack",
+    "context7"
+  ]
+}
